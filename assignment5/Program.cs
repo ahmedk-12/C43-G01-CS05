@@ -1,10 +1,3 @@
-﻿using static System.Runtime.InteropServices.JavaScript.JSType;
-using System.ComponentModel;
-using System.IO;
-using System.Reflection;
-using System.Threading.Channels;
-using System;
-
 namespace Assignment5
 {
     internal class Program
